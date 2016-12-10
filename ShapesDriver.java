@@ -1,8 +1,6 @@
 public class ShapesDriver {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 
 		// deck
